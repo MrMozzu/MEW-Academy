@@ -1,6 +1,0 @@
-{
-  "name": "MEW Academy - Online Courses, Student Dashboard & Certification",
-  "description": "An interactive tech academy platform for selling online courses, tracking student progress, performance analytics, integrated payment gateways, and automated certificate generation.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
